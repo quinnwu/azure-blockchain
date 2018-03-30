@@ -327,7 +327,8 @@ Ethereum blockchains use "smart contracts" to broker transactions. A smart contr
             development: {
                 host: "blkchn2o4.eastus.cloudapp.azure.com",
                 port: 8545,
-   	            network_id: "*" // Match any network id
+   	            network_id: "*", // Match any network id
+		    gas: 2900000
    	        }
  	    }
 	};
