@@ -1,5 +1,6 @@
 <a name="HOLTitle"></a>
 # Blockchain-as-a-Service on Azure #
+## Microsoft Student Partners at Penn - Friday March 30, 2018 ##
 
 <a name="Objectives"></a>
 ### Objectives ###
@@ -14,7 +15,7 @@ In this hands-on lab, you will learn how to:
 <a name="Prerequisites"></a>
 ### Prerequisites ###
 
-- An active Microsoft Azure subscription. Students can sign up [here with a $100 credit](https://azure.microsoft.com/en-us/free/students/)
+- An active Microsoft Azure subscription. Students can sign up [here with a $100 credit](https://azure.microsoft.com/en-us/free/students/).
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and PowerShell (Windows users only)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Node.js](https://nodejs.org)
