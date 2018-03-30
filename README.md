@@ -14,7 +14,7 @@ In this hands-on lab, you will learn how to:
 <a name="Prerequisites"></a>
 ### Prerequisites ###
 
-- An active Microsoft Azure subscription. If you don't have one, [sign up for a free trial](http://aka.ms/WATK-FreeTrial).
+- An active Microsoft Azure subscription. Students can sign up [here with a $100 credit].(https://azure.microsoft.com/en-us/free/students/)
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and PowerShell (Windows users only)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Node.js](https://nodejs.org)
