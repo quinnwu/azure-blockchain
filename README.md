@@ -1,5 +1,6 @@
 <a name="HOLTitle"></a>
 # Blockchain-as-a-Service on Azure #
+## Microsoft Student Partners at Penn - Friday March 30, 2018 ##
 
 <a name="Objectives"></a>
 ### Objectives ###
@@ -14,7 +15,7 @@ In this hands-on lab, you will learn how to:
 <a name="Prerequisites"></a>
 ### Prerequisites ###
 
-- An active Microsoft Azure subscription. If you don't have one, [sign up for a free trial](http://aka.ms/WATK-FreeTrial).
+- An active Microsoft Azure subscription. Students can sign up [here with a $100 credit](https://azure.microsoft.com/en-us/free/students/).
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and PowerShell (Windows users only)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Node.js](https://nodejs.org)
@@ -326,7 +327,8 @@ Ethereum blockchains use "smart contracts" to broker transactions. A smart contr
             development: {
                 host: "blkchn2o4.eastus.cloudapp.azure.com",
                 port: 8545,
-   	            network_id: "*" // Match any network id
+   	            network_id: "*", // Match any network id
+		    gas: 2900000
    	        }
  	    }
 	};
